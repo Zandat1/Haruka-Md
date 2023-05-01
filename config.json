@@ -1,8 +1,8 @@
 {
-    "ownerNumber": ["254743551416@s.whatsapp.net","254743551416@s.whatsapp.net"],
-    "ownerName": "Call Me Malibu🐧",
+    "ownerNumber": ["254746434742@s.whatsapp.net","254746434742@s.whatsapp.net"],
+    "ownerName": "Call Me 𝖛𝖆𝖘𝖍𝖎𝖊🐧",
     "instagram" : "https://instagram.com/nicetry.zaa._",
-    "botName": "Malibu🐧-Mdོ ",
+    "botName": "𝖛𝖆𝖘𝖍𝖎𝖊🐧-Mdོ ",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
@@ -14,7 +14,7 @@
     "anticall": false,
     "autorespond": false,
     "autoblok212": true,
-    "autoread": true,
+    "autoread": false,
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
