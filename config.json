@@ -9,7 +9,7 @@
     "pathimg": "./Haruka.jpg",
     "BotKey": "VdFlEL76",
     "auto_welcomeMsg": false,
-    "auto_leaveMsg": true,    
+    "auto_leaveMsg": false,    
     "autobio": true,
     "anticall": false,
     "autorespond": false,
